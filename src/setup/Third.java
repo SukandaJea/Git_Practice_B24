@@ -7,6 +7,6 @@ public class Third {
     // added line
 
     public static void main(String[] args) {
-
+        System.out.println();
     }
 }
